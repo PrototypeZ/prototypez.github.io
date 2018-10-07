@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://prototypez.github.io/2018/09/01/thoughts_in_rxjava/</loc>
+    <loc>http://prototypez.github.io/2018/09/15/app-joint-introduction/</loc>
     
-    <lastmod>2018-09-03T14:35:20.374Z</lastmod>
+    <lastmod>2018-10-07T06:35:13.073Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://prototypez.github.io/2018/09/01/thoughts-in-rxjava-4/</loc>
+    
+    <lastmod>2018-09-08T07:54:03.897Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://prototypez.github.io/2018/08/31/thoughts-in-rxjava-3/</loc>
+    
+    <lastmod>2018-09-08T07:54:03.894Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://prototypez.github.io/2018/08/30/thoughts-in-rxjava-2/</loc>
+    
+    <lastmod>2018-09-08T07:54:03.889Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://prototypez.github.io/2018/08/29/thoughts-in-rxjava-1/</loc>
+    
+    <lastmod>2018-09-08T07:54:03.883Z</lastmod>
     
   </url>
   
