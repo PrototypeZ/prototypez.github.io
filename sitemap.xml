@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://prototypez.github.io/2018/10/10/cross-module-method-invocation-made-easy/</loc>
+    
+    <lastmod>2018-10-12T15:54:08.342Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://prototypez.github.io/2018/09/15/app-joint-introduction/</loc>
     
     <lastmod>2018-10-07T09:02:27.799Z</lastmod>
